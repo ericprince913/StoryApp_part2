@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">BPAAI_submission1</string>
+    <string name="wordlogin">Masuk Sekarang</string>
+    <string name="wordregister">Daftar Sekarang</string>
+    <string name="success">Berhasil diunggah</string>
+    <string name="fail">Gagal Diunggah</string>
+    <string name="upload">Bagikan Kisah Anda</string>
+    <string name="logout">Keluar</string>
+    <string name="galeri">Galeri</string>
+    <string name="camerax">CameraX</string>
+    <string name="camera">Camera</string>
+    <string name="uploadtext">Unggah Gambar Kamu</string>
+    <string name="sharenow">Bagikan Sekarang</string>
+    <string name="buttonlogin">Masuk</string>
+    <string name="buttonregister">Daftar</string>
+    <string name="loginbutton">saya punya akun</string>
+    <string name="notpermission">Tidak mendapatkan permission</string>
+    <string name="retry">memuat ulang</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+    <string name="start_point">Start Point</string>
+</resources>
